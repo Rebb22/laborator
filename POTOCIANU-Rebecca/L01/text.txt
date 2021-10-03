@@ -1,0 +1,5 @@
+OneDrive este un serviciu de stocare de la Microsoft pentru păstrarea fișierelor în cloud.
+Eu personal am inlocuit stick-ul si cd-ul, cu OneDrive.Il folosesc atat pentru fisiere oficiale, cat si pentru cele personale.
+Este foarte util deoarece prin intermediul lui, poti avea acces la fisiere de pe orice device.
+Microsoft a dezvoltat aplicații pentru iOS, Android, macOS, Xbox și pentru toate versiunile de Windows.
+De asemenea, OneDrive este o soluție excelentă pentru backup.
